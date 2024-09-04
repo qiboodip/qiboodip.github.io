@@ -10,7 +10,7 @@ layout:
 # 侧边栏标签页
 tabs:
   # 格式: <无尾缀文件名>: <值>
-  home: 
+  home: 首 页
   categories: 
   tags: 
   archives: 
