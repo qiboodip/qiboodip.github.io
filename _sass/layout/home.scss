@@ -131,7 +131,7 @@
 } /* .pagination */
 
 /* Tablet */
-@media all and (min-width: 768px) {
+@media all and (min-width: 660px) {
   %img-radius {
     border-radius: 0 $base-radius $base-radius 0;
   }
@@ -169,7 +169,7 @@
 }
 
 /* Sidebar is visible */
-@media all and (min-width: 831px) {
+@media all and (min-width: 660px) {
   #post-list {
     margin-top: 2.5rem;
   }
