@@ -1,6 +1,6 @@
 ---
 layout: archives
-title: 档案
+title: 归 档
 icon: icon-archive
 order: 4
 ---
