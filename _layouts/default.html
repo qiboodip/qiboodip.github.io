@@ -88,5 +88,11 @@ layout: compress
     {% include js-selector.html lang=lang %}
 
     {% include_cached search-loader.html lang=lang %}
+    <script>
+  document.addEventListener("DOMContentLoaded", function() {
+    document.body.style.zoom = "1.18";
+  });
+</script>
+
   </body>
 </html>
