@@ -1,0 +1,14 @@
+/* 动态调整页面宽度 */
+.container {
+  max-width: calc(100vw * 1); /* 宽度基于视口宽度 */
+  padding-left: calc(50vw - 50%); /* 确保内容居中 */
+  padding-right: calc(50vw - 50%); 
+}
+
+
+/* 动态调整字体大小 */
+body {
+  font-size: calc(1rem * 1.25); /* 字体按比例放大 */
+}
+
+/* 如果有其他需要调整的元素，继续在这里定义 */
