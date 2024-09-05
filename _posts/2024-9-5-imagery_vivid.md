@@ -14,7 +14,7 @@ media_subpath: /assets/img/aphan/
 
 ---
 
-如果想做VVIQ自评或加入我们的实验研究，点击[这里](#bottom)跳至尾部！
+如果想做表象生动性（VVIQ）自评或加入我们的实验研究，点击[这里](#bottom)跳至尾部！
 
 ---
 
@@ -64,10 +64,11 @@ media_subpath: /assets/img/aphan/
 
 ---
 
-[俺只想测测表象生动性，请点击这里](https://www.wjx.cn/vm/eDrYzSL.aspx# )👈
+只想测表象生动性？请点击👉[这里](https://www.wjx.cn/vm/eDrYzSL.aspx# )
 
 ---
 
 <p align="center">
     <a href="#" style="font-size: 17px;">回到顶部</a>
 </p>
+
