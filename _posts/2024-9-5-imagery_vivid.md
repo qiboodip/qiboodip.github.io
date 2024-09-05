@@ -50,7 +50,7 @@ media_subpath: /assets/img/aphan/
 
 此外，表象在心理治疗中也有重要作用。认知行为疗法（CBT）和正念冥想等疗法中，患者通过视觉化技术来减轻焦虑和压力，增强自信和积极情绪。
 
-<a id="bottom"></a>
+<div id="bottom"></div>
 
 ### 总结
 
