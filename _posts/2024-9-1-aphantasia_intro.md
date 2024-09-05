@@ -44,9 +44,11 @@ media_subpath: /assets/img/aphan/
 
 ---
 
-### [推文源文](https://journal.psych.ac.cn/xlkxjz/CN/10.3724/SP.J.1042.2024.LS.00034)
+[**推文源文**](https://journal.psych.ac.cn/xlkxjz/CN/10.3724/SP.J.1042.2024.01844)
 
 ---
 
-[回到顶部](#)
+<p align="center">
+    <a href="#" style="font-size: 15px;">回到顶部</a>
+</p>
 

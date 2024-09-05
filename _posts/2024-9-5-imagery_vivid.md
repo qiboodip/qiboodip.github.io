@@ -68,5 +68,6 @@ media_subpath: /assets/img/aphan/
 
 ---
 
-[回到顶部](#) 
-
+<p align="center">
+    <a href="#" style="font-size: 17px;">回到顶部</a>
+</p>
