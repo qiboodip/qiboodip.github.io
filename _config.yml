@@ -142,7 +142,7 @@ comments:
     issue_term: # < 链接 | 路径 | 标题 | ...>
   # Waline 评论系统 › https://waline.js.org/
   waline:
-    server: waline-test-git-main-qiboodips-projects.vercel.app  # Vercal 服务端地址
+    server: https://waline-test-5d5hzve06-qiboodips-projects.vercel.app/  # Vercal 服务端地址
     placeholder: 说点什么吧！ # 空白评论框时显示的文字
     avatar: mp # 默认头像  › https://waline.js.org/guide/client/avatar.html
   # Giscus 选项 › https://giscus.app
@@ -153,7 +153,7 @@ comments:
     category_id:
     mapping: # 可选项，默认为 'pathname'
     strict: # 可选项，默认为 '0'
-    input_position: # 可选项，默认为 'bottom'
+    input_position: # 可选项，默认为 'bottom'https://
     lang: # 可选项，默认为 `site.lang` 的值
     reactions_enabled: # 可选项，默认为 1
 
