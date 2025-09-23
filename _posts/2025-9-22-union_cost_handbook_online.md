@@ -3,9 +3,6 @@ title: 线上报销篇
 date: 2025-9-22 10:07:01 +0800
 categories: [研究生会, 采购, 报账]
 tags: [研究生会, 采购, 报账, 线上]    
-pin: true
-image: 
-media_subpath: /assets/img/union/
 ---
 
 ---

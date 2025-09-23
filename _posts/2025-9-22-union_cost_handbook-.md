@@ -3,9 +3,6 @@ title: 研究生会不会报销？请看这篇
 date: 2025-9-22 10:07:01 +0800
 categories: [研究生会, 采购, 报账]
 tags: [研究生会, 采购, 报账]    
-pin: true
-image: 
-media_subpath: /assets/img/union/
 ---
 
 ---
