@@ -25,12 +25,7 @@ pin: true
 
 ## 报销方式
 
-- [线上报销流程](/reimbursement/online)
-- [线下报销流程](/reimbursement/offline)
-
----
-
-## 报销材料总览
+- 报销材料总览
 
 无论线上还是线下购买，均需准备以下基本材料：
 

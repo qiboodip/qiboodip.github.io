@@ -24,8 +24,8 @@ tags: [研究生会, 采购, 报账]
 
 ## 报销方式
 
-- [线上报销流程]({% post_url 2025-9-22-union_cost_handbook_online %})
-- [线下报销流程]({% 2025-9-22-union_cost_handbook_offline%})
+- [线上报销流程]({% post_url 2025-09-22-union_cost_handbook_online %})
+- [线下报销流程]({% post_url 2025-09-22-union_cost_handbook_offline %})
 
 ---
 
