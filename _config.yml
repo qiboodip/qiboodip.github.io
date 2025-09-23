@@ -18,13 +18,13 @@ title: 牛皮纸的糖 # 主标题
 tagline: 恭喜发财，大吉大利！ # 副标题
 
 description: >- # 由 seo meta 和 atom feed 使用
-  齐登辉 的个人博客
+  齐大大 的个人博客
 
 # 填入你的网站的协议和域名.
 # 例如，'https://username.github.io'，注意不要以 '/' 结尾。
 url: "https://qiboodip.github.io"
 
-author: 齐登辉 # 全名
+author: 齐大大 # 全名
 
 github:
   username:  # Github 用户名
@@ -36,7 +36,7 @@ social:
   # 改为你的全名。
   # 这将会显示为帖子的默认作者以及页脚的版权所有者
   name: 齐登辉
-  email: denghui.qi@m.scnu.edu.cn # 邮箱地址
+  email: 47383967@qq.com # 邮箱地址
   links:
     # 第一个链接将会作为版权所有者的链接
     - https://qiboodip.github.io"
