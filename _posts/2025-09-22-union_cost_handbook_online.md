@@ -24,8 +24,8 @@ media_subpath: /assets/img/union/cost/online/
   ## 采购完成后需提交的报销材料
 
   1. **策划书（PDF）**：最终版，命名示例：`秘书处-简历大赛-策划书`  
-  2. **预算清单**：附在策划书末尾，与后续截图及发票顺序一致  【[预算支出申请单样例](/assets/img/union/cost/online/附件2：工学部预算支出申请单样例.docx)】
-  3. **订单截图 + 支付截图 + 代付截图（PDF）**  【[发票收集流程](/assets/img/union/cost/online/附件7：发票收集流程.docx))】👈
+  2. **预算清单**：附在策划书末尾，与后续截图及发票顺序一致  【[预算支出申请单样例](/assets/img/union/cost/online/附件2-工学部预算支出申请单样例.docx)】
+  3. **订单截图 + 支付截图 + 代付截图（PDF）**  【[发票收集流程](/assets/img/union/cost/online/附件7-发票收集流程.docx))】👈
      - 顺序需与预算清单一致  
      - 命名示例：`秘书处-简历大赛-截图`  
   4. **华师抬头发票（PDF压缩包）**  
