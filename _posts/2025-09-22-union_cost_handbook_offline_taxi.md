@@ -1,5 +1,5 @@
 ---
-title: 校区间打车报销流程
+title: 🚕 校区间打车报销流程
 date: 2025-9-22 10:07:01 +0800
 categories: [研究生会, 报销]
 tags: [研究生会, 采购, 报销, 线下, 打车]  
@@ -8,7 +8,7 @@ media_subpath: /assets/img/union/cost/taxi/
 
 ---
 
-# 🚕 校区间打车报销流程
+# 
 
 ## 打车前注意事项
 
@@ -46,7 +46,7 @@ media_subpath: /assets/img/union/cost/taxi/
 - 材料顺序：高速支付&行程支付截图 【可以附有】→ 高速发票 → 行程发票 → 行程单（依次循环）  
 - 用回形针装订，提交至 **行政楼312a 齐登辉老师办公桌**
 
-#### [⬅ 返回总览]({% post_url 2025-09-22-union_cost_handbook %})
+[⬅ 返回总览]({% post_url 2025-09-22-union_cost_handbook %})
 
 
 
