@@ -9,8 +9,6 @@ media_subpath: /assets/img/union/cost/online/
 
 ---
 
-# 
-
 - ## 采购前准备
 
   - 提交 **活动方案 + 活动预算清单** → 齐老师审核通过后方可购买  

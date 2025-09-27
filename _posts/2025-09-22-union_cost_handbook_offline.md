@@ -8,8 +8,6 @@ media_subpath: /assets/img/union/offline/
 
 ---
 
-# 
-
 ## 采购方式
 
 1. **个人垫付**  
