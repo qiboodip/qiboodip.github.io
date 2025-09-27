@@ -1,13 +1,10 @@
 ---
-title:  工学部研究生会报销方式汇总
-date: 2025-9-22 10:07:01 +0800
+title: "工学部研究生会报销方式汇总"
+date: 2025-09-22 10:07:01 +0800
 categories: [研究生会, 采购, 报销]
-tags: [研究生会, 采购, 报销]   
+tags: [研究生会, 采购, 报销]
 pin: true
-media_subpath: /assets/img/union/cost/ 
----
-
-
+media_subpath: /assets/img/union/cost/
 ---
 
 # 📑 工学部研究生会报销方式汇总
@@ -18,15 +15,13 @@ media_subpath: /assets/img/union/cost/
 
 ## 报销方式
 
-- [线上采购报销流程]({% 2025-09-22-union_cost_handbook_online %})  👈
+- [线上采购报销流程]({% post_url 2025-09-22-union_cost_handbook_online %})  👈
 
-- [线下采购报销流程]({% 2025-09-22-union_cost_handbook_offline %})  👈
+- [线下采购报销流程]({% post_url 2025-09-22-union_cost_handbook_offline %})  👈
 
-- [打车报销流程]({% 2025-09-22-union_cost_handbook_offline_taxi %})  👈
+- [打车报销流程]({% post_url 2025-09-22-union_cost_handbook_offline_taxi %})  👈
 
-  
-
-  ps.如需相应流程的word版，均在文章结尾去自行下载
+ps.如需相应流程的 word 版，均在文章结尾自行下载。
 
 ---
 
@@ -34,14 +29,10 @@ media_subpath: /assets/img/union/cost/
 
 无论线上还是线下购买，均需准备以下基本材料：
 
-- 工学部预算支出申请单【[下载](/assets/img/union/cost/附件2：工学部预算支出申请单模板.docx)】👈  
-
-- 具有“华师”抬头的发票（PDF格式）
-
-  ![抬头信息](抬头.png)
-
-- 活动策划书  【下载】👈
-
+- 工学部预算支出申请单【[下载](/assets/img/union/cost/附件2-工学部预算支出申请单模板.docx)】👈  
+- 具有“华师”抬头的发票（PDF 格式）  
+  ![抬头信息](/assets/img/union/cost/taitou.png)  
+- 活动策划书  【下载】👈  
 - （如涉及服装定制、奖品发放等）签领表，且必须涵盖全部物资  【下载】👈
 
 具体所需材料对比表：  
@@ -59,3 +50,4 @@ media_subpath: /assets/img/union/cost/
 <p align="center">
     <a href="#" style="font-size: 17px;">回到顶部</a>
 </p>
+
