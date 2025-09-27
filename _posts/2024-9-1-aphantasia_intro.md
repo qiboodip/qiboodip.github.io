@@ -3,7 +3,7 @@ title: 无法想象？or 无法想“像”？
 date: 2024-9-1 00:00:01 +0800
 categories: [科普, 认识心盲症]
 tags: [心盲症, 失象症, 表象, 深度学习]    
-pin: true
+pin: false
 image: 6.jpeg
 media_subpath: /assets/img/aphan/
 ---
