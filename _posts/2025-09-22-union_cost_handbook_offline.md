@@ -41,9 +41,9 @@ media_subpath: /assets/img/union/offline/
   - 收据必须是原件或电子文件，不可使用照片扫描件  
   - 所有材料用回形针装订，提交至 **行政楼312a 齐登辉老师办公桌**
 
-  #### [⬅ 返回总览]({% 2025-09-22-union_cost_handbook %})
-
-
+  #### [⬅ 返回总览]({% post_url 2025-09-22-union_cost_handbook %})
+  
+  
 
 <p style="color: red; font-size: 0.9em;">（ ↓ 下载word版流程）</p>
 

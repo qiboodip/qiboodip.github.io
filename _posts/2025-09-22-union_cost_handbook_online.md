@@ -48,7 +48,7 @@ media_subpath: /assets/img/union/cost/online/
   - 材料顺序：预算支出申请单 → 发票1 → 对应截图 → 发票2 → 对应截图 → … → 策划书 → 签领表  
   - 用回形针装订，提交至 **行政楼312a 齐登辉老师办公桌**
 
-  #### [⬅ 返回总览]({% 2025-09-22-union_cost_handbook %})
+  #### [⬅ 返回总览]({% post_url 2025-09-22-union_cost_handbook %})
 
 
 
