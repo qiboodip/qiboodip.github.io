@@ -20,7 +20,7 @@ media_subpath: /assets/img/union/cost/online/
 
   4.不得使用红包、满减、淘金币等优惠 
 
-  （2-4    [线上采购关键步骤操作详细](/assets/img/union/cost/附件3-线上采购关键操作步骤详细操作.pdf)👈） 
+  （2-4    [线上采购关键步骤操作详细](/assets/img/union/cost/online/附件3-线上采购关键操作步骤详细操作.pdf)👈） 
 
   5.注意淘宝代付限制：每日最多 ***10*** 笔订单  ******
   
