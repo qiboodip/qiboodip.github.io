@@ -3,6 +3,7 @@ title: 🏬 线下采购报销流程
 date: 2025-9-22 10:07:01 +0800
 categories: [研究生会, 采购, 报销]
 tags: [研究生会, 采购, 报销, 线下]  
+image: 研会.png
 media_subpath: /assets/img/union/offline/
 ---
 
@@ -21,21 +22,28 @@ media_subpath: /assets/img/union/offline/
 
 ---
 
-## 报销所需材料
+## 报销所需材料--纸质
 
-- 工学部预算支出申请单  
-- 华师抬头发票  
+- 工学部预算支出申请单 【[下载](/assets/img/union/cost/附件2-工学部预算支出申请单模板.docx)】 
+
+- 华师抬头的发票  
+
+  ![1](发票样例.png)  
+
 - 纸质收据  
-- POS单（如有刷卡支付）  
-- 签领表（如涉及奖品/服装）  
-- 活动策划书  
+
+- 支付记录/POS单（如有刷卡支付）  
+
+- 签领表（如涉及奖品/服装）  【[下载](/assets/img/union/cost/签领表模板.docx)】
+
+- 活动策划书  【[下载](/assets/img/union/cost/华南师范大学工学部研究生会策划方案模板.docx)】
 
 ---
 
 ## 报销流程要求
 
 - **记账购买**：负责人需在记账本上签名  
-- **个人垫付**：每份材料右上角写明姓名+学号+建行卡号（首张补开户行信息）  
+- **个人垫付**：报销时工学部预算支出申请单及第一张报销材料右上角空白处需写明姓名+学号+建行卡号+开户行信息
 - 收据必须是原件或电子文件，不可使用照片扫描件  
 - 所有材料用回形针装订，提交至 **行政楼312a 齐登辉老师办公桌**
 
@@ -43,9 +51,9 @@ media_subpath: /assets/img/union/offline/
 
 
 
-<p style="color: red; font-size: 0.9em;">（ ↓ 下载word版流程）</p>
+<p style="color: red; font-size: 0.9em;">（ ↓ 下载文件版本）</p>
 
-[**线下采购报销**](/assets/img/union/工学部研究生会线下报销流程汇总初版.docx)
+[**线下采购报销**](/assets/img/union/工学部研究生会线下报销流程汇总.pdf)
 
 ---
 

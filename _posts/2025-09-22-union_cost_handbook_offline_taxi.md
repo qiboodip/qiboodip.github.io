@@ -3,6 +3,7 @@ title: 🚕 校区间打车报销流程
 date: 2025-9-22 10:07:01 +0800
 categories: [研究生会, 报销]
 tags: [研究生会, 采购, 报销, 线下, 打车]  
+image: 研会.png
 media_subpath: /assets/img/union/cost/taxi/
 ---
 
@@ -39,18 +40,17 @@ media_subpath: /assets/img/union/cost/taxi/
 
 ## 报销流程要求
 
-- 报销时材料右上角填写姓名+学号+建行卡号（首张补开户行信息）  
-- 打印要求：发票纵向居中，不要铺满页面  
-- 材料顺序：高速支付&行程支付截图 【可以附有】→ 高速发票 → 行程发票 → 行程单（依次循环）  
+- 报销时在工学部预算支出申请单及第一张报销材料右上角空白处用铅笔写明姓名+学号+建行卡号+开户行信息
+- 材料顺序：工学部预算支出申请单→高速发票 →行程发票 →行程单 （依次循环）
 - 用回形针装订，提交至 **行政楼312a 齐登辉老师办公桌**
 
 [⬅ 返回总览]({% post_url 2025-09-22-union_cost_handbook %})
 
 
 
-<p style="color: red; font-size: 0.9em;">（ ↓ 下载word版流程）</p>
+<p style="color: red; font-size: 0.9em;">（ ↓ 下载文件版本）</p>
 
-[**打车报销**](/assets/img/union/工学部研究生会校区间打车报销流程.docx)
+[**打车报销**](/assets/img/union/工学部研究生会校区间打车报销流程.pdf)
 
 ---
 

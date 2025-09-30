@@ -13,9 +13,9 @@ timezone: Asia/Shanghai
 
 # jekyll-seo-tag 设置 › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
-title: 牛皮纸的糖 # 主标题
+title: 齐大大 # 主标题
 
-tagline: 恭喜发财，大吉大利！ # 副标题
+tagline: 工学部研究生会 # 副标题
 
 description: >- # 由 seo meta 和 atom feed 使用
   齐大大 的个人博客
@@ -24,7 +24,7 @@ description: >- # 由 seo meta 和 atom feed 使用
 # 例如，'https://username.github.io'，注意不要以 '/' 结尾。
 url: "https://qiboodip.github.io"
 
-author: 齐大大 # 全名
+author: 牛皮纸的糖 # 全名
 
 github:
   username:  # Github 用户名
@@ -35,7 +35,7 @@ twitter:
 social:
   # 改为你的全名。
   # 这将会显示为帖子的默认作者以及页脚的版权所有者
-  name: 齐大大
+  name: 牛皮纸的糖
   email: 47383967@qq.com # 邮箱地址
   links:
     # 第一个链接将会作为版权所有者的链接

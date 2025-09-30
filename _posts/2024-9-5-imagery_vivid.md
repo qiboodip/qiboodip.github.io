@@ -4,6 +4,7 @@ date: 2024-9-5 10:07:01 +0800
 categories: [科普, 表象]
 tags: [表象, 视觉表象 , 生动性]    
 pin: false
+hidden: true
 image: brain.png
 media_subpath: /assets/img/aphan/
 ---
