@@ -3,8 +3,8 @@ title: 🏬 线下采购报销流程
 date: 2025-9-22 10:07:01 +0800
 categories: [研究生会, 采购, 报销]
 tags: [研究生会, 采购, 报销, 线下]  
-image: 研会.png
-media_subpath: /assets/img/union/offline/
+image: yanhui.png
+media_subpath: /assets/img/union/cost/offline/
 ---
 
 ---

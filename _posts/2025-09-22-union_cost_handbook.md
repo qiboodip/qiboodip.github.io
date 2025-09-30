@@ -4,7 +4,7 @@ date: 2025-09-22 10:07:01 +0800
 categories: [研究生会, 采购, 报销]
 tags: [研究生会, 采购, 报销]
 pin: true
-image: 研会.png
+image: yanhui.png
 media_subpath: /assets/img/union/cost/
 ---
 

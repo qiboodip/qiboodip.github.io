@@ -3,7 +3,7 @@ title: 🚕 校区间打车报销流程
 date: 2025-9-22 10:07:01 +0800
 categories: [研究生会, 报销]
 tags: [研究生会, 采购, 报销, 线下, 打车]  
-image: 研会.png
+image: yanhui.png
 media_subpath: /assets/img/union/cost/taxi/
 ---
 
