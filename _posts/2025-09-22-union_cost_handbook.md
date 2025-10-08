@@ -20,7 +20,7 @@ media_subpath: /assets/img/union/cost/
 
 - [打车报销流程]({% post_url 2025-09-22-union_cost_handbook_offline_taxi %})  👈
 
-ps.如需相应流程的 word 版，均在文章结尾自行下载。
+***ps.如需相应流程的文件版，均在文章结尾自行下载。***
 
 ---
 
